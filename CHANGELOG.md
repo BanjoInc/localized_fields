@@ -2,6 +2,13 @@
 
 ### Improvements
 
+* Adding support for Rails 4.
+* Adding support for Mongoid 5.
+
+## 0.3.0 - February 20, 2017
+
+### Improvements
+
 * Added ability to specify the label text. ([@xavier][]) commit: [7222f15][]
 
 ## 0.2.0 - June 15, 2012
